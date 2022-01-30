@@ -28,17 +28,17 @@ Research
 
 &nbsp; __Online worker selection towards high quality map collection for autonomous driving__  
 &nbsp;  X Cao, Y Li, __J Han__, P Yang, F Lyu, D Guo, X Shen
-&nbsp;  * IEEE GLOBECOM 2019*  
+&nbsp;  *IEEE GLOBECOM 2019*  
 &nbsp;  [paper](https://ieeexplore.ieee.org/abstract/document/9013516)
 
 &nbsp; __Multi-cue road boundary detection using stereo vision__  
 &nbsp;  L Wang, T Wu, Z Xiao, L Xiao, D Zhao, __J Han__
-&nbsp;  * IEEE ICVES 2016*  
+&nbsp;  *IEEE ICVES 2016*  
 &nbsp;  [paper](https://ieeexplore.ieee.org/abstract/document/7548169)
 
 &nbsp; __A Vehicle Detection Method based on Online Sequential ELM with Deep ConvNet Features__  
 &nbsp;  __J Han__, Xin Xu and Yujun Zeng
-&nbsp;  * ELM 2016*  
+&nbsp;  *ELM 2016*  
 
 Open Source Projects
 ==============================
