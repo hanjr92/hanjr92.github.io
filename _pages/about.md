@@ -54,4 +54,4 @@ Open Source Projects
 Miscellaneous
 ==================
 - I'm a great cartoon fan.
-- I like playing e-games, like DOTA2, WOW, Sekiro™ Shadows Die Twice. I am a heavy user of Steam. 
+- I like playing e-games, like DOTA2, WOW, Elder Ring. I am a heavy user of Steam. 
