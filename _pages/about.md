@@ -53,5 +53,5 @@ Open Source Projects
 
 Miscellaneous
 ==================
-- I'm a great cartoon fan. Two-dimensional.
-- I like playing e-games, like DOTA2, WOW, Sekiro™ Shadows Die Twice. I am a heavy user of Steam. Shut up! Take my money, Gabe Logan Newell!
+- I'm a great cartoon fan.
+- I like playing e-games, like DOTA2, WOW, Sekiro™ Shadows Die Twice. I am a heavy user of Steam. 
