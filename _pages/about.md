@@ -53,5 +53,4 @@ Open Source Projects
 
 Miscellaneous
 ==================
-- I'm a great cartoon fan.
 - I like playing e-games, like DOTA2, WOW, Elder Ring. I am a heavy user of Steam. 
